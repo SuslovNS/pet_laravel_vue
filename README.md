@@ -1,1 +1,1 @@
-# pet_laravel_vue
+Simple table with Vue.js+Laravel
